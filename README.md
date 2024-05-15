@@ -28,7 +28,7 @@ This repository contains a CRUD (Create, Read, Update, Delete) user application 
 
 **mongoose:** MongoDB object modeling tool designed to work in an asynchronous environment.
 
-**Prerequisites
+**Prerequisites**
 
 Before running the application, make sure you have the following installed:
 
