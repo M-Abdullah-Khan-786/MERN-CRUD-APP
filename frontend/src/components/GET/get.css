@@ -1,0 +1,61 @@
+.table {
+  width: 70%;
+  background-color: white;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 1);
+  border-radius: 8px;
+  margin: 32px auto;
+  padding: 50px;
+}
+
+.table table {
+  width: 100%;
+  margin-top: 22px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.create-btn {
+  text-decoration: none;
+  background-color: cornflowerblue;
+  font-weight: 600;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 1);
+  border-radius: 50px;
+  padding: 12px;
+  color: white;
+  cursor: pointer;
+  float: right;
+  margin: 10px 8px;
+}
+
+.table table thead th {
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  padding: 10px;
+}
+.table table tbody td {
+  padding: 10px;
+}
+
+.action-btn button {
+  border: 0;
+  outline: none;
+  background-color: white;
+  padding: 8px 12px;
+  border-radius: 52px;
+  color: red;
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.action-btn a {
+  border: 0;
+  outline: none;
+  padding: 8px 12px;
+  border-radius: 60px;
+  color: green;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+}

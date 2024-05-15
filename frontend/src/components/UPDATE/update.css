@@ -1,0 +1,42 @@
+.updateUser {
+    width: 30%;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 1);
+    border-radius: 8px;
+    margin: 32px auto;
+    padding: 50px;
+  }
+  
+  .updateUser h1 {
+    text-align: center;
+  }
+  .updateUser form .inputdata {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .updateUser form .inputdata label {
+    margin-bottom: 7px;
+  }
+  
+  .updateUser form .inputdata input {
+    margin-bottom: 11px;
+    outline: none;
+    padding: 10px;
+    border-radius: 22px;
+  }
+  
+  .updateUser form .inputdata button {
+    margin-top: 12px;
+    outline: none;
+    padding: 14px;
+    font-weight: 700;
+    background-color: cornflowerblue;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 1);
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
