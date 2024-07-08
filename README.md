@@ -27,11 +27,3 @@ This repository contains a CRUD (Create, Read, Update, Delete) user application 
 **express-async-handler:** Utility to handle asynchronous route handlers in Express.
 
 **mongoose:** MongoDB object modeling tool designed to work in an asynchronous environment.
-
-**Prerequisites**
-
-Before running the application, make sure you have the following installed:
-
-**Node.js (v14.x or higher)**
-
-**npm or yarn**
